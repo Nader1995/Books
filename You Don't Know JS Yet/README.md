@@ -1,4 +1,6 @@
 # You Don't Know JS Yet
+Link to the book:
+https://www.amazon.de/-/en/Kyle-Simpson-ebook/dp/B084BNMN7T
 
 1) Why do we call it JavaScript? Why Java?
   Because this language was designed to appeal to an audience of mostly Java programmers, and "script" was used to refer to lightweight programs. In other     words, JavaScript was a marketing name.
